@@ -1,4 +1,4 @@
-# bio_diversity_in_national_parks
+# Biodiversity in National Parks
 
 This is an analysis I did regarding a bio_diversity in NPs dataset from the National Parks and Wildlife Service USA.
 
